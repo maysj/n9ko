@@ -1,0 +1,40 @@
+
+
+header {
+text-align: center;
+font-size: 64px;
+font-family:"Libre Barcode 39";
+color: black;
+margin: 20px;}
+h1{
+
+    font-family: Bebas Neue;
+}
+h2 {
+    font-family: Bebas Neue;
+}
+h3{
+    font-family: Bebas Neue;
+}
+.grid {
+    position: center;
+    width: 100%;
+   ;
+}
+
+
+
+.images{
+    font-family: Bebas Neue;
+    font-size: xx-large;
+    display: inline-flex;
+    width:100%;
+    text-align: center;
+    list-style-position: inside;
+}
+.image1{
+ width: 400px;
+ height:auto;
+ margin: 50px;
+ position:
+}
